@@ -17,7 +17,7 @@ A Pokédex é um dispositivo do universo Pokémon capaz de buscar informações 
 
 ## Inicialização
 ```
-git clone git@gitlab.com:feliperasan/dsmeta-css.git
+git clone git@gitlab.com:feliperasan/pokedex.git
 ```
 
 *Abrir o arquivo index.html no navegador ou utilizar alguma extensão capaz de executar através de um servidor local.*
