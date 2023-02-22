@@ -1,6 +1,9 @@
 # Pokédex
 A Pokédex é um dispositivo do universo Pokémon capaz de buscar informações dos pokémons que são avistados e capturados pelos personagens do universo pokémon.
 
+## Link para Acessar o Projeto
+[CLICK AQUI!](https://feliperasanpokedex.netlify.app/)
+
 ![Aplicação](https://gitlab.com/feliperasan/pokedex/uploads/c1621148d046375d1eb987f1a3da1cb9/Peek_2022-07-26_05-22.gif)
 
 ## Funcionalidades
